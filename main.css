@@ -1,0 +1,42 @@
+.wrapper {
+	display: block;
+	margin: auto;
+	width: 600px;
+}
+#semafor {
+	width: 150px;
+	height: 420px;
+	border: 1px solid silver;
+	border-radius: 20px;
+	display: block;
+	float: left;
+	margin-top: 50px;
+	margin-right: 200px;
+}
+.boje {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border: 1px solid silver;
+	margin: 15px 25px;
+}
+
+#semafor2 {
+	width: 150px;
+	height: 420px;
+	border: 1px solid silver;
+	border-radius: 20px;
+	display: block;
+	float: left;
+	margin-top: 50px;
+}
+.boje2 {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border: 1px solid silver;
+	margin: 15px 25px;
+}
+.clear {
+	clear: both;
+}
